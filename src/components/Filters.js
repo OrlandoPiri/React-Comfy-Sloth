@@ -39,7 +39,6 @@ const Filters = () => {
               value={text}
               onChange={updateFilters}
             />
-            ===================
           </div>
           {/* end search input */}
           {/* categories */}

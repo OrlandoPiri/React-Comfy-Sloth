@@ -20,6 +20,7 @@ const ProductsPage = () => {
 };
 
 const Wrapper = styled.div`
+  margin: auto 4rem; //just my preference
   .products {
     display: grid;
     gap: 3rem 1.5rem;
